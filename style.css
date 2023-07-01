@@ -1,0 +1,30 @@
+*{
+  font-family: "Roboto";
+}
+
+
+body{
+  height: 100%;
+  
+}
+
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+}
+
+
+#clock {
+  
+  font-size: 144px;
+  font-weight: 300px;
+  font-size: 144px;
+  width: 900px;
+  margin: 200px;
+  text-align: center;
+  border: 2px solid rgb(255, 255, 255);
+  border-radius: 15px;
+  color: white;
+}
